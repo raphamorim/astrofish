@@ -40,19 +40,19 @@ Put `astrofish.vim` file in your `~/.vim/colors/` directory and add the followin
 
 ## Color Palette
 
-Palette      | Hex       
----          | ---       
-Background   | `#292B2E` 
-Current Line | `#212026` 
-Selection    | `#292E34` 
-Foreground   | `#ADB0A2` 
-Comment      | `#2A9BA3` 
-String       | `#2C9372` 
-Variable	 | `#6590DA`
-Function	 | `#BB6DC4`
-Border		 | `#5D4D7A`
-Type		 | `#CC5279`
-Keyword	     | `#4D92CC`
+Palette      | Hex       | RGB          |
+---          | ---       |---           |   
+Background   | `#292B2E` | `41 43 46`   |
+Current Line | `#212026` | `33 32 38`   |
+Selection    | `#292E34` | `41 46 52`   |
+Foreground   | `#ADB0A2` | `173 176 162`|
+Comment      | `#2A9BA3` | `42 155 163` |
+String       | `#2C9372` | `44 147 114` |
+Variable     | `#6590DA` | `101 144 218`|
+Function     | `#BB6DC4` | `187 109 196`|
+Border       | `#5D4D7A` | `93 77 122`  |
+Type         | `#CC5279` | `204 82 121` |
+Keyword      | `#4D92CC` | `77 146 204` |
 
 ## Contributing
 
