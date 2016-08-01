@@ -10,6 +10,7 @@ Based on [Spacemacs Color Scheme](https://raw.githubusercontent.com/nashamri/spa
 * Editors
   * [Vim](#vim)
 * Terminal
+  * [iTerm](#iterm)
   * [Terminal.app](#terminalapp)
 * [Color Palette](#color-palette)
 * [Contributing](#contributing)
@@ -24,6 +25,15 @@ Put `astrofish.vim` file in your `~/.vim/colors/` directory and add the followin
     syntax enable
     set number
     colorscheme astrofish -->
+
+
+## iTerm
+![iTerm Example](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/iterm.png)
+
+1.  Use `git clone git@github.com:raphamorim/astrofish.git` (or use [.zip download][zip] option)
+2.  iTerm > Settings Tab
+3.  Go to "Profiles > Colors" tab
+4.  Click "Color Presets..." to import and select the **iterm/Astrofish.itermcolors** file
 
 
 ## Terminal.app
