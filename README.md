@@ -17,14 +17,21 @@ Based on [Spacemacs Color Scheme](https://raw.githubusercontent.com/nashamri/spa
 * [About](#about)
 
 
-<!-- ## Vim
+## Vim
 ![Vim Example](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/vim.png)
 
-Put `astrofish.vim` file in your `~/.vim/colors/` directory and add the following line to your vimrc file:
+Clone and open this repo, then put `astrofish.vim` file in your `~/.vim/colors/` directory  
+
+```bash
+git clone https://github.com/raphamorim/astrofish.git && cd astrofish
+cp vim/astrofish.vim ~/.vim/colors/
+```
+
+Add the following line to your vimrc file:
 
     syntax enable
     set number
-    colorscheme astrofish -->
+    colorscheme astrofish
 
 
 ## iTerm
