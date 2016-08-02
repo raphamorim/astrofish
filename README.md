@@ -50,19 +50,19 @@ Put `astrofish.vim` file in your `~/.vim/colors/` directory and add the followin
 
 ## Color Palette
 
-Palette      | Hex       | RGB          |
----          | ---       |---           |   
-Background   | `#292B2E` | `41 43 46`   |
-Current Line | `#212026` | `33 32 38`   |
-Selection    | `#292E34` | `41 46 52`   |
-Foreground   | `#ADB0A2` | `173 176 162`|
-Comment      | `#2A9BA3` | `42 155 163` |
-String       | `#2C9372` | `44 147 114` |
-Variable     | `#6590DA` | `101 144 218`|
-Function     | `#BB6DC4` | `187 109 196`|
-Border       | `#5D4D7A` | `93 77 122`  |
-Type         | `#CC5279` | `204 82 121` |
-Keyword      | `#4D92CC` | `77 146 204` |
+Palette      | Hex       | RGB          | :art: |
+---          | ---       |---           |---    |   
+Background   | `#292B2E` | `41 43 46`   | ![Background Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/background-color.png)    |
+Current Line | `#212026` | `33 32 38`   | ![Current Line Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/current_line-color.png)|
+Selection    | `#292E34` | `41 46 52`   | ![Selection Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/selection-color.png)      |
+Foreground   | `#ADB0A2` | `173 176 162`| ![Foreground Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/foreground-color.png)    |
+Comment      | `#2A9BA3` | `42 155 163` | ![Comment Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/comment-color.png)          |
+String       | `#2C9372` | `44 147 114` | ![String Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/string-color.png)            |
+Variable     | `#6590DA` | `101 144 218`| ![Variable Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/variable-color.png)        |
+Function     | `#BB6DC4` | `187 109 196`| ![Function Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/function-color.png)        |
+Border       | `#5D4D7A` | `93 77 122`  | ![Border Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/border-color.png)            |
+Type         | `#CC5279` | `204 82 121` | ![Type Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/type-color.png)                |
+Keyword      | `#4D92CC` | `77 146 204` | ![Keyword Color](https://raw.githubusercontent.com/raphamorim/astrofish/master/images/keyword-color.png)          |
 
 ## Contributing
 
